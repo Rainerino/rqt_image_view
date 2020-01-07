@@ -51,7 +51,7 @@
 #include <QString>
 #include <QSize>
 #include <QWidget>
-
+#include <QSet>
 #include <vector>
 
 namespace rqt_image_view {
